@@ -1,2 +1,31 @@
-
+.r1c1{
+	background-color:teal;
+}
+.r1c2{
+	background-color:thistle;
+}
+.r2c1{
+	background-color:tomato;
+}
+.r2c2{
+	background-color:turquoise;
+}
+.r3c1{
+	background-color:violet;
+}
+.r3c2{
+	background-color:yellowgreen;
+}
+.container{
+	width:600px !important;
+	border:5px solid lightgreen;
+	background-color: palevioletred;
+}
+.col-md-4, .col-md-8{
+	height:200px !important;
+	border:2px dotted;
+}
+.row{
+	background-color:maroon;
+}
 /* Your CSS Code here. */
